@@ -187,6 +187,11 @@
       (simple #t)
     )
     (person
+      (name "Alex \"Serano\" Jockers")
+      (info (_ "Level improvements"))
+      (simple #t)
+    )
+    (person
       (name "Devyn Collier Johnson")
       (info (_ "Graphics"))
       (simple #t)
